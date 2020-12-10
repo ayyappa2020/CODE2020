@@ -3,3 +3,5 @@ LAPTOP PASSWORD : abhi@2020
 GITHUB : ayyappa2020/ayyappa@2020
 
 ORACLE DATABASE : orcl/orcl2020
+
+MICROSOFT ACCOUNT : ayyappa.t@outlook.com/ayyappa@2020
